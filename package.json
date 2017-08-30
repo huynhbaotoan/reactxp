@@ -16,7 +16,9 @@
     "prop-types": "^15.5.9",
     "rebound": "^0.0.13",
     "subscribableevent": "^1.0.0",
-    "synctasks": "^0.2.9"
+    "synctasks": "^0.2.9",
+    "react": "16.0.0-alpha.12",
+		"react-native": "0.47.2"
   },
   "peerDependencies": {
     "react": "^15.4.1",
